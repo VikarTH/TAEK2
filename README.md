@@ -15,3 +15,5 @@ fyrirbyggjandi viðhald er þegar maður tekur skref til að koma í veg fyrir e
 ESD stendur fyrir Electrostatic discharge, og er spenna sem byggust á milli tvem hlutum.
 til að verjast á móti ESD þegar verið er að vinna með tölvubúnað er gott að vera jarðaður við hlutinn sem verið er að vinna með.
 
+###5. Hvað þarf að hafa í huga við val á spennugjöfum?
+Það þarf að vera viss að hann hafi nógu mikinn kraft til að styðja alla íhluti.
