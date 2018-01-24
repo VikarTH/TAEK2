@@ -33,3 +33,5 @@ DÆMI
 opin spurning : Hvað varst þú að gera þegar talvan bilaði
 lokuð spurning : virkaði talvan í gær
 
+###8. Hvað eru jaðartæki?
+Jaðartæki eru tæki sem tengjast við tölvu
