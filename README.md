@@ -25,3 +25,11 @@ til að verjast á móti ESD þegar verið er að vinna með tölvubúnað er go
 4. plana hvað þarf að gera.
 5. vera viss um að allt virkar.
 6. skrá niður allt sem að maður fann út.
+
+###7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
+Opinn spurning getur haft mjög fjölbreytt svör
+lokuð spurning hefur stutt svör
+DÆMI
+opin spurning : Hvað varst þú að gera þegar talvan bilaði
+lokuð spurning : virkaði talvan í gær
+
