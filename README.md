@@ -38,3 +38,15 @@ Jaðartæki eru tæki sem tengjast við tölvu
 
 ###9. Nefndu þrjú dæmi um inntakstæki
 	Mús, Lyklaborð, Myndavél
+	
+###10. . Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
+###leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
+###fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+MSI GTX1080 GamingX+ = 93950
+Intel Core i7 8700K  = 55950
+Crucial 16GB kit (2x8GB) DDR4 2400MHz, CL16 = 22900
+Crucial MX300 275GB M.2 Solid-State SATA 6.0Gb/s = 14900
+ASRock Z370M Pro4 µATX LGA1151 = 19500
+Corsair RM650x = 17900
+CoolerMaster Storm Enforcer = 12497
+CoolerMaster Hyper 212 = 6450
