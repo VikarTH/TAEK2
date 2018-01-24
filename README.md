@@ -35,3 +35,6 @@ lokuð spurning : virkaði talvan í gær
 
 ###8. Hvað eru jaðartæki?
 Jaðartæki eru tæki sem tengjast við tölvu
+
+###9. Nefndu þrjú dæmi um inntakstæki
+	Mús, Lyklaborð, Myndavél
