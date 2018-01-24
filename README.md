@@ -17,3 +17,11 @@ til að verjast á móti ESD þegar verið er að vinna með tölvubúnað er go
 
 ###5. Hvað þarf að hafa í huga við val á spennugjöfum?
 Það þarf að vera viss að hann hafi nógu mikinn kraft til að styðja alla íhluti.
+
+###6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+1. Kanna vandamálið.
+2. Búa til teoríu um hvað gæti valdað vandamálið.
+3. prófa teoríuna.
+4. plana hvað þarf að gera.
+5. vera viss um að allt virkar.
+6. skrá niður allt sem að maður fann út.
