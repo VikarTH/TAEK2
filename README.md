@@ -7,3 +7,6 @@ RAM stendur fyrir Random Acess Memory.
 ###2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
 ROM stendur fyrir Read Only Memory.
 Það er tölvuminni sem tölva getur einungis lesið.
+
+###3. Hvað er fyrirbyggjandi viðhald?
+fyrirbyggjandi viðhald er þegar maður tekur skref til að koma í veg fyrir einhvernskonar óhapp.
