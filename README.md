@@ -10,3 +10,8 @@ ROM stendur fyrir Read Only Memory.
 
 ###3. Hvað er fyrirbyggjandi viðhald?
 fyrirbyggjandi viðhald er þegar maður tekur skref til að koma í veg fyrir einhvernskonar óhapp.
+
+###4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvað leiðir höfum við til að verjast því þegar unnið er með tölvubúnað.
+ESD stendur fyrir Electrostatic discharge, og er spenna sem byggust á milli tvem hlutum.
+til að verjast á móti ESD þegar verið er að vinna með tölvubúnað er gott að vera jarðaður við hlutinn sem verið er að vinna með.
+
